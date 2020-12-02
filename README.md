@@ -1,1 +1,1 @@
-# heidisubgraph
+# Heidicoin
